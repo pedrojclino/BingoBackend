@@ -1,0 +1,7 @@
+/plugin/build
+/plugin/logs/*
+
+/app/build
+/app/logs/*
+
+/.vscode

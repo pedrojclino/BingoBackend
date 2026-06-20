@@ -1,0 +1,21 @@
+{
+    "MaxPlayers": 5,
+    "MaxCards": 5,
+    "BallUniverse": [1,60],
+    "CardUniverse": [1,60],
+    "MaxDraws": 30,
+    "MaxExtraBalls": 1,
+    "CardSize": [3,5],
+    "CardPrizePatterns":[
+                        {"Pattern": [[1,1,1,1,1],
+                                     [0,1,1,1,0],
+                                     [0,0,1,0,0]],
+                         "Prize":10},
+                        {"Pattern": [[1,1,1,1,1],
+                                     [0,0,1,0,0],
+                                     [1,1,1,1,1]],
+                         "Prize":50}
+                        ],
+    "PlayPrice": 1,
+    "ExtraBallPrice": 1
+}
